@@ -1,0 +1,1 @@
+web: gunicorn clarksite1.wsgi --log-file -
